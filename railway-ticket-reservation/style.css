@@ -1,0 +1,27 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #eef2f7;
+text-align: center;
+}
+h1 {
+color: darkblue;
+}
+.container {
+background-color: white;
+width: 350px;
+margin: 40px auto;
+padding: 25px;
+border-radius: 10px;
+}
+input {
+width: 90%;
+padding: 10px;
+margin: 10px;
+}
+button {
+background-color: green;
+color: white;
+padding: 10px 20px;
+border: none;
+cursor: pointer;
+}
